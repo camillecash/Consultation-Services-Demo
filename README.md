@@ -1,6 +1,6 @@
 # TeckyConsult Website Demo
 
-A responsive, two-page concept site for Kenneth Gyan's IT consulting business.
+A responsive, two-page concept site for IT consulting business.
 
 ## Pages
 
@@ -13,7 +13,7 @@ The visual system uses muted navy, sea-glass teal, sage, warm ivory, and a restr
 
 ## Easy launch updates
 
-1. Replace `hello@teckyconsult.com` with Kenneth's preferred email.
+1. Replace `hello@teckyconsult.com` with preferred email.
 2. Replace the four general podcast-platform URLs with the show's profile URLs.
 3. Connect `#consult-form` in `script.js` to a scheduler, CRM, or form service.
 4. Update the sample podcast topics when real episodes are available.
